@@ -32,20 +32,24 @@ The interface is designed to be intuitive, accessible, and aesthetically pleasin
    cd Todo_App_UsingFlutter-
    
 2. **Install dependencies**:
+   ```bash
    flutter pub get
    
-3. **Run the app**:
+4. **Run the app**:
+   ```bash
    flutter run
 
 ## Usage
- **Adding a Task**:
+**Adding a Task**:
  - Click the "+" button on the main screen.
  - Fill in the task details and select the priority color.
  - Click "Submit" to add the task.
- **Editing a Task**:
+   
+**Editing a Task**:
  - Tap on a task to view its details.
  - Click the "Edit" button and modify the task details.
  - Click "Submit" to save the changes.
+   
 **Deleting a Task**:
 - Tap on a task to view its details.
 - Click the "Delete" button to remove the task.
