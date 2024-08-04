@@ -60,6 +60,7 @@ The interface is designed to be intuitive, accessible, and aesthetically pleasin
 
 
 ## File Structure
+   ```bash
 ├── lib
 │   ├── models
 │   │   └── task.dart
