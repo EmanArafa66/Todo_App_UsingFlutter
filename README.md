@@ -10,8 +10,6 @@ The objective of this project is to develop a mobile application using Flutter f
 - **Add Task**: Users can add new tasks with a title, description, due date, notification option, and priority color.
 - **Edit Task**: Users can edit the details of existing tasks.
 - **Delete Task**: Users can delete tasks they no longer need.
-- **Reorder Tasks**: Users can reorder tasks using drag-and-drop functionality.
-- **Task Notifications**: Users are notified when tasks are due if the notification option is enabled.
 - **Task Priority Colors**: Tasks can be color-coded based on their priority.
 
 ## User-Friendly Enhancement
